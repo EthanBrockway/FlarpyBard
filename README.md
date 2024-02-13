@@ -20,7 +20,7 @@ A simple online game where you tap to fly a bird through multiple pipes. Flying 
 ![MoreInstructions](https://github.com/EthanBrockway/FlarpyBard/assets/95703604/7cf68082-a122-46b3-9dc4-e51debf046cf)
 
 
-### 3. Find your repo folder you just clone and open the file. 
+### 3. Find your repo folder you just cloned and open the file. 
 ### 4. You will now see your file in the unity hub "Projects" tab. Click on it and allow unity to run.
 ### 5. You should see a tab that looks like this appear. Press build in the bottom right and choose a file to build the project in. 
 ![Instructions](https://github.com/EthanBrockway/FlarpyBard/assets/95703604/69bc5798-5264-40b1-97bd-970a09cbd16a)
